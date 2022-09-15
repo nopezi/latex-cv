@@ -1,0 +1,85 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%  MULTI-COLUMN SPACING  %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\columnsep}{-3.4in}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%  CONTACT SECTION  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{multicols}{2}
+
+\doublespacing % Redefine Spacing for Clarity
+   
+% HEADER
+
+    \begin{tcolorbox}
+        [
+        width=0.450\textwidth , 
+        colframe=WhiteSmoke,
+        colback=LinkedInBlue,
+        arc=1mm,
+        ]
+        \color{WhiteSmoke}
+        \centerline{\Large \name}
+    \end{tcolorbox}
+    \vspace{0.25in}
+
+% DATA
+
+    % PROFILE PICTURE
+        {\color{LinkedInBlue} \ovalbox{\includegraphics[scale=.5]{picture.jpeg}}}
+        \vspace{0.2in}
+
+    % TEL
+        {\color{LinkedInBlue} \ovalbox{Tel}}
+        {
+            +6281943214722
+        }
+    
+    % EMAIL
+        {\color{LinkedInBlue} \ovalbox{Email}}
+        {
+        \href{mailto:nopezisaputra@gmail.com}
+        {\color{OuterSpace} \underline{nopezisaputra@gmail.com}}}
+    
+    % GITHUB
+        {\color{LinkedInBlue} \ovalbox{GitHub}} 
+        {
+        \href{https://github.com/nopezi}
+        {\color{OuterSpace} \underline{https://github.com/nopezi}}
+        }
+    
+    % LINKEDIN
+        {\color{LinkedInBlue} \ovalbox{LinkedIn}}
+        {
+        \href{https://www.linkedin.com/in/nopezi-saputra-pratama/}
+        {\color{OuterSpace} \underline{https://linkedin.com/in/nopezi-saputra-pratama}}
+        }
+    
+    \columnbreak
+    
+    % LAST UPDATE
+        {\hfill \small \color{OuterSpace} Last Updated | \it \today}
+
+    % TAGS (Distribute As Desired)
+    \vspace{0.41in}
+    {\color{LinkedInBlue}
+    {\large Software Engineer}\\
+    \ovalbox{Web Developer}\\
+    \ovalbox{Backend Developer}\\
+    \ovalbox{Front End Developer}\\
+    \ovalbox{Chatbot Developer}\\
+    % \ovalbox{Math Education Researcher}\\
+    % \ovalbox{Tutor} \ovalbox{Mentor} \ovalbox{Lecturer} \\
+    % \ovalbox{Web Developer} \ovalbox{Educational Software Developer}
+    }
+    
+\end{multicols}
+
+\vspace{0.06in}
+I have experience of programming for more than 4 years using PHP, javascript, mysql, postgres, oracle codeigniter, laravel, lumen programming languages especially for the development of microservice rest api backends, experienced in developing whatsapp and telegram chatbots. have developed a web front end project using vue js with vuex state management along with nuxt and typescript, with golang as the backend rest api. have used supporting services such as elastic, kibana, minio and socket io
+% \lipsum[2]
+\vspace{0.2in}

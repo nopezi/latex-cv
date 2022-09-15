@@ -1,0 +1,1195 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.8)  10 SEP 2022 21:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/koding/latex cv/Curriculum+vitae+Nur+Rahmat+Dwi+Riyanto+English/Curriculum vitae Nur Rahmat Dwi Riyanto English.tex"
+(c:/koding/latex cv/Curriculum+vitae+Nur+Rahmat+Dwi+Riyanto+English/Curriculum vitae Nur Rahmat Dwi Riyanto English.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\pxfonts.sty
+Package: pxfonts 2008/01/22 v1.1.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/pxr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/pxr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/pxr/m/n --> OT1/pxr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/pxr/m/it --> OT1/pxr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/pxr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/pxr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/pxr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/pxr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/pxr/m/it --> OT1/pxr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/pxss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/pxss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/pxss/m/n --> OT1/pxss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/pxtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/pxtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/pxtt/m/n --> OT1/pxtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/pxmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/pxmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/pxmi/m/it --> OML/pxmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/pxmia/m/it --> U/pxmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pxsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pxsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/pxsy/m/n --> OMS/pxsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/pxsya/m/n --> U/pxsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/pxsyb/m/n --> U/pxsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/pxsyc/m/n --> U/pxsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/pxex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/pxex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/pxex/m/n --> OMX/pxex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/pxexa/m/n --> U/pxexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 591.
+LaTeX Info: Redefining \not on input line 997.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucs.sty
+Package: ucs 2022/08/07 v2.3 UCS: Unicode input support
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uni-global.def
+File: uni-global.def 2022/08/07 UCS: Unicode global data
+)
+\uc@secondtry=\count271
+\uc@combtoks=\toks21
+\uc@combtoksb=\toks22
+\uc@temptokena=\toks23
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+pxr on input line 112.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\t1pxr.fd
+File: t1pxr.fd 2000/12/14 v1.0
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
+File: utf8x.def 2022/08/07 UCS: Input encoding UTF-8
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks26
+\@arclen=\dimen148
+\@arcrad=\dimen149
+\pIIe@tempdima=\dimen150
+\pIIe@tempdimb=\dimen151
+\pIIe@tempdimc=\dimen152
+\pIIe@tempdimd=\dimen153
+\pIIe@tempdime=\dimen154
+\pIIe@tempdimf=\dimen155
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/06/26 3.77 The Babel package
+\babel@savecnt=\count272
+\U@D=\dimen156
+\l@unhyphenated=\language79
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count273
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box53
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count278
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count281
+\pgfmath@box=\box54
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count282
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count283
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen190
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen194
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count286
+\pgfplotmarksize=\dimen256
+)
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
+)
+\tikz@expandcount=\count294
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count295
+\Gm@cntv=\count296
+\c@Gm@tempcnt=\count297
+\Gm@bindingoffset=\dimen265
+\Gm@wd@mp=\dimen266
+\Gm@odd@mp=\dimen267
+\Gm@even@mp=\dimen268
+\Gm@layoutwidth=\dimen269
+\Gm@layoutheight=\dimen270
+\Gm@layouthoffset=\dimen271
+\Gm@layoutvoffset=\dimen272
+\Gm@dimlist=\toks40
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box64
+)
+No file "Curriculum vitae Nur Rahmat Dwi Riyanto English".aux.
+\openout1 = `"Curriculum vitae Nur Rahmat Dwi Riyanto English.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 18.
+LaTeX Font Info:    Trying to load font information for OML+pxmi on input line 18.
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omlpxmi.fd
+File: omlpxmi.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for OMS+pxsy on input line 18.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omspxsy.fd
+File: omspxsy.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for OMX+pxex on input line 18.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omxpxex.fd
+File: omxpxex.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for U+pxexa on input line 18.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxexa.fd
+File: upxexa.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    ... okay on input line 18.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count299
+\scratchdimen=\dimen273
+\scratchbox=\box65
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen274
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks42
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 612.0pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 935.0pt, 0.0pt)
+* \paperwidth=612.0pt
+* \paperheight=935.0pt
+* \textwidth=612.0pt
+* \textheight=935.0pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 105.
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uni-37.def
+File: uni-37.def 2022/08/07 UCS: Unicode data U+2500..U+25FF
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uninames.dat
+File: uninames.dat 2022/08/07 UCS: Unicode character names, compressed
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uni-37.def
+File: uni-37.def 2022/08/07 UCS: Unicode data U+2500..U+25FF
+)
+
+c:/koding/latex cv/Curriculum+vitae+Nur+Rahmat+Dwi+Riyanto+English/Curriculum vitae Nur Rahmat Dwi Riyanto English.tex:1154: Package ucs Error: Unknown Unicode character 9670 = U+25C6,
+(ucs)                possibly declared in uni-37.def.
+(ucs)                Type H to see if it is available with options.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1154 ...{m}{n}\selectfont\color{color_29791}◆}
+                                                  
+Unicode character 9670 = U+25C6:
+BLACK DIAMOND
+Character available with following options:
+   postscript.
+Enter I!<RET> to define the glyph.
+
+LaTeX Font Info:    Trying to load font information for OT1+pxtt on input line 1154.
+(C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\ot1pxtt.fd
+File: ot1pxtt.fd 2000/12/14 v1.0
+)
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1186.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1212.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1358.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1373.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1399.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1409.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1533.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1548.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1700.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1710.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1871.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 1881.
+
+[1
+
+{C:/Users/snope/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 2346.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 2510.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 2672.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 2829.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 2998.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 3076.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 3174.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 3252.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 3353.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 3449.
+
+[2] (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uni-38.def
+File: uni-38.def 2022/08/07 UCS: Unicode data U+2600..U+26FF
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uninames.dat
+File: uninames.dat 2022/08/07 UCS: Unicode character names, compressed
+) (C:\Users\snope\AppData\Local\Programs\MiKTeX\tex/latex/ucs/data\uni-38.def
+File: uni-38.def 2022/08/07 UCS: Unicode data U+2600..U+26FF
+)
+
+c:/koding/latex cv/Curriculum+vitae+Nur+Rahmat+Dwi+Riyanto+English/Curriculum vitae Nur Rahmat Dwi Riyanto English.tex:3809: Package ucs Error: Unknown Unicode character 9733 = U+2605,
+(ucs)                possibly declared in uni-38.def.
+(ucs)                Type H to see if it is available with options.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3809 ...{m}{n}\selectfont\color{color_85768}★}
+                                                  
+Unicode character 9733 = U+2605:
+BLACK STAR
+Character available with following options:
+   postscript.
+Enter I!<RET> to define the glyph.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3810.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3811.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3812.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3813.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3814.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3815.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3816.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3817.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3818.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3823.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3824.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3825.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3826.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3827.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3828.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3829.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3830.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3831.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3832.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3838.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3839.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3840.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3841.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3842.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3843.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3844.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3845.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3846.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3847.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3859.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3860.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3861.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3862.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3863.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3864.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3865.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3866.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3867.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3868.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3883.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3884.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3885.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3886.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3887.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3888.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3889.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3890.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3891.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3892.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3902.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3903.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3904.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3905.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3906.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3907.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3908.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3909.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3910.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3911.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3922.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3923.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3924.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3925.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3926.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3927.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3928.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3929.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3930.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3931.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3943.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3944.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3945.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3946.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3947.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3948.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3949.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3950.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3951.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3952.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3963.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3964.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3965.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3966.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3967.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3968.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3969.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3970.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3971.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3972.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3981.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3982.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3983.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3984.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3985.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3986.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3987.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3988.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3989.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3990.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 3999.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4000.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4001.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4002.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4003.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4004.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4005.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4006.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4007.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4008.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4015.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4016.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4017.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4018.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4019.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4020.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4021.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4022.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4023.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4024.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4033.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4034.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4035.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4036.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4037.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4038.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4039.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4040.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4041.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4042.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4051.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4052.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4053.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4054.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4055.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4056.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4057.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4058.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4059.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4060.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4076.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4077.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4078.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4079.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4080.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4081.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4082.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4083.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4084.
+
+
+Package ucs Warning: Unknown character 9733 = 0x2605 appeared again. on input line 4085.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4144.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4222.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4273.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4360.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4413.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4497.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4597.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4652.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4701.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4776.
+
+
+Package ucs Warning: Unknown character 9670 = 0x25C6 appeared again. on input line 4913.
+
+[3] [4] [5] [6] [7] (Curriculum vitae Nur Rahmat Dwi Riyanto English.aux) ) 
+Here is how much of TeX's memory you used:
+ 16484 strings out of 478338
+ 324444 string characters out of 2836701
+ 738303 words of memory out of 3000000
+ 34594 multiletter control sequences out of 15000+600000
+ 500692 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 91i,5n,93p,514b,585s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/snope/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/snope/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/snope/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "Curriculum vitae Nur Rahmat Dwi Riyanto English.pdf" (7 pages, 58652 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
